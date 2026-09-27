@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mtech-codes.github.io/sitemap.xml
+Sitemap: https://mayank-techs.github.io/sitemap.xml

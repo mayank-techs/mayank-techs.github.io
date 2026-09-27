@@ -192,7 +192,7 @@ typeAboutRole();
 
 const repositoryGrid = document.getElementById("repositoryGrid");
 
-const githubUsername = "mtech-codes";
+const githubUsername = "mayank-techs";
 
 const svgStyle = document.createElement("style");
 

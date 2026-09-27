@@ -1,10 +1,10 @@
 <div align="center">
 
-# mtech-codes.github.io
+# mayank-techs.github.io
 
 > A developer-focused portfolio showcasing my projects, repositories, coding experiments, and explorations across web development and modern technology.
 
-🌐 **[Visit Website](https://mtech-codes.github.io/)**
+🌐 **[Visit Website](https://mayank-techs.github.io/)**
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-**mtech-codes.github.io** is my personal portfolio website and a central place to showcase my development work, projects, experiments, and GitHub repositories.
+**mayank-techs.github.io** is my personal portfolio website and a central place to showcase my development work, projects, experiments, and GitHub repositories.
 
 The website focuses on a clean, responsive, developer-oriented interface while keeping the project lightweight, simple, and easy to maintain.
 
@@ -46,7 +46,7 @@ It also dynamically fetches my public GitHub repositories and displays useful re
 ## Project Structure
 
 ```text
-mtech-codes.github.io/
+mayank-techs.github.io/
 │
 ├── index.html
 ├── 404.html
@@ -238,11 +238,11 @@ The website is hosted using **GitHub Pages**.
 
 **Repository:**
 
-`mtech-codes/mtech-codes.github.io`
+`mayank-techs/mayank-techs.github.io`
 
 **Live Website:**
 
-https://mtech-codes.github.io/
+https://mayank-techs.github.io/
 
 </div>
 
@@ -270,13 +270,13 @@ The project is continuously evolving.
 Clone the repository:
 
 ```bash
-git clone git@github.com:mtech-codes/mtech-codes.github.io.git
+git clone git@github.com:mayank-techs/mayank-techs.github.io.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd mtech-codes.github.io
+cd mayank-techs.github.io
 ```
 
 The project uses standard HTML, CSS, and JavaScript and does not require a frontend framework or package installation for the basic website.
@@ -311,7 +311,7 @@ Please check the repository license before reusing or redistributing the code.
 
 Developer • Creator • Programmer
 
-[GitHub](https://github.com/mtech-codes) · [Website](https://mtech-codes.github.io/)
+[GitHub](https://github.com/mayank-techs) · [Website](https://mayank-techs.github.io/)
 
 <br>
 
